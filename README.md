@@ -8,6 +8,6 @@ The repository includes the main code architecture of each project of the comput
 Projects that contain main.cpp can run programs by directly executing main.cpp, while other programs may include only the main framework of the MFC, which needs to be reorganized.
 
 ## Reference
-1.  [References on color transfer](https://ieeexplore.ieee.org/abstract/document/946629)  
-2.  [References on image warping](https://www.sciencedirect.com/science/article/abs/pii/S1049965284710157)
-3.  [References on surface simplification](https://dl.acm.org/doi/pdf/10.1145/258734.258849)
+1.  [Reference on color transfer](https://ieeexplore.ieee.org/abstract/document/946629)  
+2.  [Reference on image warping](https://www.sciencedirect.com/science/article/abs/pii/S1049965284710157)
+3.  [Reference on surface simplification](https://dl.acm.org/doi/pdf/10.1145/258734.258849)
